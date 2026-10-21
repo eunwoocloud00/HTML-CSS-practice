@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Input Type 실습</title>
+</head>
+
+<body>
+
+<form>
+
+    <input type="text" name="text" value="text"><br>
+
+    <input type="password" name="password" value="password"><br>
+
+    <input type="file" name="file"><br>
+
+    <input type="checkbox" name="checkbox" value="checkbox"><br>
+
+    <input type="radio" name="radio" value="radio"><br>
+
+    <input type="hidden" name="hidden" value="hidden"><br>
+
+    <input type="button" value="button"><br>
+
+    <input type="reset" value="reset"><br>
+
+    <input type="submit" value="submit"><br>
+
+</form>
+
+</body>
+</html>
